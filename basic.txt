@@ -2,3 +2,6 @@ basic markdown
 1. Heading        ->  #H1 ##H2 ###H3
 2. Bold           ->  **blod text**
 3. Italic         ->  *italicized text*
+4. Blockqoute     ->  >blockqoute
+5. Ordered List   ->  1. first item  2.second item  3. thrid item
+6. Unordered List ->  - first item   - second item  - thrid item 
